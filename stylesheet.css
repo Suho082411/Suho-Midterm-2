@@ -1,0 +1,201 @@
+ #mango {
+	background-image: url(https://pics.freeartbackgrounds.com/fullhd/Beautiful_Sunset_Background-1366.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%
+}
+nav {
+	float: right;
+	list-style: none;
+	margin-top: 20px;
+}
+nav a {
+	display: inline-block;
+}
+nav a{
+	font-family: bold;
+	text-decoration: none;
+	color: solid black;
+	padding: 10px 20px;
+	border: 1px solid groove;
+	transition: 0.6s ease;
+}
+nav a:hover {
+	background-color: snow;
+	color: #000;
+}
+div.me {
+	text-indent: 2%;
+	margin: auto;
+  	width: 35%;
+  	height: 20%;
+ 	border: 2px solid black;
+  	background-color: rgb(0, 128, 128, .5);
+  	padding: 10px;
+}
+h1 {
+	margin: auto;
+	text-align: center;
+	border-radius: 100px;
+	border: 2px solid black;
+	background-color: rgb(0, 128, 128, .5);
+	width: 50%;
+}	
+#p4 {
+	font-family: verdana;
+	border-radius: 50px;
+	border: 2px solid black;
+	background-color: rgb(0, 128, 128, .5);
+ 	padding: 10px;
+}
+#apple {
+	background-image: url(https://www.designyourway.net/blog/wp-content/uploads/2020/04/1Sunset-Background-A-digital-design.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%
+}
+nav {
+	float: right;
+	list-style: none;
+	margin-top: 20px;
+}
+nav a {
+	display: inline-block;
+}
+nav a {
+	font-family: bold;
+	text-decoration: none;
+	color: solid black;
+	padding: 10px 20px;
+	border: 1px solid groove;
+	transition: 0.6s ease;
+}
+nav a:hover {
+	background-color: snow;
+	color: #000;
+}
+div.Elem {
+	text-indent: 2%;
+	margin: auto;
+  	width: 35%;
+  	height: 20%;
+ 	border: 2px solid black;
+  	background-color: rgb(0, 128, 128, .5);
+  	padding: 10px;
+}
+h1 {
+	margin: auto;
+	text-align: center;
+	border-radius: 100px;
+	border: 2px solid black;
+	background-color: rgb(0, 128, 128, .5);
+	width: 50%;
+}	
+#p1 {
+	font-family: verdana;
+	border-radius: 50px;
+	border: 2px solid black;
+	background-color: rgb(0, 128, 128, .5);
+ 	padding: 10px;
+}
+#orange {
+	background-image: url(https://i.pinimg.com/originals/56/38/03/5638036e2d7e2a5c5eb0165fec7f53f0.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%
+}
+nav {
+	float: right;
+	list-style: none;
+	margin-top: 20px;
+}
+nav a {
+	display: inline-block;
+}
+nav a {
+	font-family: bold;
+	text-decoration: none;
+	color: solid black;
+	padding: 10px 20px;
+	border: 1px solid groove;
+	transition: 0.6s ease;
+}
+nav a:hover {
+	background-color: snow;
+	color: #000;
+}
+div.JHS {
+	text-indent: 2%;
+	margin: auto;
+  	width: 35%;
+  	height: 20%;
+ 	border: 2px solid black;
+  	background-color: rgb(0, 128, 128, .5);
+  	padding: 10px;
+}
+h1 {
+	margin: auto;
+	text-align: center;
+	border-radius: 100px;
+	border: 2px solid black;
+	background-color: rgb(0, 128, 128, .5);
+	width: 50%;
+}
+#p2 {
+	font-family: verdana;
+	border-radius: 50px;
+	border: 2px solid black;
+	background-color: rgb(0, 128, 128, .5);
+ 	padding: 10px;6
+}
+#grapes {
+	background-image: url(https://i.pinimg.com/originals/bb/57/97/bb5797b606db8dd08ffab7ed845f0c8e.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%
+}
+nav {
+	float: right;
+	list-style: none;
+	margin-top: 20px;
+}
+nav a {
+	display: inline-block;
+}
+nav a {
+	font-family: bold;
+	text-decoration: none;
+	color: solid black;
+	padding: 10px 20px;
+	border: 1px solid groove;
+	transition: 0.6s ease;
+	background-color: snow;
+}
+nav a:hover {
+	background-color: snow;
+	color: #000;
+}
+div.SHS {
+	text-indent: 2%;
+	margin: auto;
+  	width: 35%;
+  	height: 20%;
+ 	border: 2px solid black;
+  	background-color: rgb(0, 128, 128, .5);
+  	padding: 10px;
+}
+h1 {
+	margin: auto;
+	text-align: center;
+	border-radius: 100px;
+	border: 2px solid black;
+	background-color: rgb(0, 128, 128, .5);
+	width: 50%;
+}	
+#p3 {
+	font-family: verdana;
+	border-radius: 50px;
+	border: 2px solid black;
+	background-color: rgb(0, 128, 128, .5);
+ 	padding: 10px;
+}
